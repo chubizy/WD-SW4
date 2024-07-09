@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/chubizy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/Bloogoo_Dantic.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">FEATURES</h3>
+  <h3 align="center">FEATURE DISPLAY</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -62,17 +62,23 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
+- What is the project?
+
+This seatwork 4 is all about feature display showcasing the different fetures of an item with various layouts and designs.
+
+- Whats the purpose?
+
+To practice and familiarize the variation of properties and values in HTML and CSS. It also aim to enhance our designing skills and writing code and practice in deploying.
+
+- What are key components?
+
+Features: This part is all about the features of a laptop with various layouts and designs.
 - What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Features
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -118,4 +124,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| icons | icons for laptop and monitor | https://fontawesome.com/search |
