@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logoHeader {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 8vh;
+
+    & .logo {
+        display: flex;
+        height: 85px;
+    
+    }
+}
+
+.landingPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    background-color: aliceblue;
+    height: 100vh;
+    gap: 1rem;
+
+    & > .title {
+        font-size: 60px;
+    }
+
+    & > .vid {
+        display: flex;
+        width: 35rem;
+    }
+}
+
+.containerImage {
+    position: relative;
+    width: 200px;
+  }
+
+.features {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.containerImage {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+
+
+}
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+
+  }
+
+.containerImage:hover .nameMiddle {
+    opacity: 1;
+}
+
+.containerImage:hover .image {
+    opacity: 0.3;
+  }
+
+  .nameMiddle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+  }
+
+  .text {
+    background-color: #000000;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+
