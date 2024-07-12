@@ -124,4 +124,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| icons | icons for laptop and monitor | https://fontawesome.com/search |
+| Images | images | https://ph.pinterest.com/ |
+
